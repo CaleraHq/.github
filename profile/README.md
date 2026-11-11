@@ -5,9 +5,9 @@
 Calera is a modern scheduling platform for individuals and teams to share availability, manage bookings, and embed customizable scheduling experiences anywhere.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../calera-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="../calera-light.png">
-  <img alt="Calera scheduling platform" src="assets/calera-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/calera-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/calera-light.png">
+  <img alt="Calera scheduling platform" src="../assets/calera-light.png">
 </picture>
 
 ## ✦ Features
